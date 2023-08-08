@@ -1,0 +1,1 @@
+# metin2f-Win64-Shipping.exe
